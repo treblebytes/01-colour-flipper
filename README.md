@@ -8,4 +8,4 @@ The RGB version randomly generates a set of RGB values.
 
 The split RGB version allows the user to randomly generate either one of the RGB values. I thought this was cool as it really lets you see the effect of how having varying amounts of red/blue/green values individually causes the colour to change. Colour theory ftw :v:
 
-[Here's the site](https://colour-flip.netlify.app). Happy viewing!
+:boom: Live demo up as of 28 January 2022. [Here's the site](https://colour-flip.netlify.app). Happy viewing! :boom:
